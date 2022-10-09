@@ -66,8 +66,8 @@ Route::get('daftar-bid-sponsor-badan-usaha', [SengketaController::class, "daftar
 Route::get('daftar-bid-pengacara-pesonal', [SengketaController::class, "daftarBidP"]);
 Route::get('daftar-bid-pengacara-badan-hukum', [SengketaController::class, "daftarBidPBH"]);
 
-Route::get('daftar-bid-tanah-pribadi', [SengketaController::class, "daftarBidLP"]);
-Route::get('daftar-bid-tanah-perusahaan', [SengketaController::class, "daftarBidLPR"]);
+Route::get('daftar-bid-lahan-pribadi', [SengketaController::class, "daftarBidLP"]);
+Route::get('daftar-bid-lahan-perusahaan', [SengketaController::class, "daftarBidLPR"]);
 
 Route::get('daftar-bid-lender-personal', [SengketaController::class, "daftarBidLLP"]);
 Route::get('daftar-bid-lender-badan-usaha', [SengketaController::class, "daftarBidLLPR"]);
@@ -93,7 +93,7 @@ Route::get('kerjasama-lahan', [PublicController::class, 'kerjasamaLahan'])->name
 Route::get('podcast-sengketa', [PublicController::class, 'podcastSengketa'])->name('podcastSengketa');
 Route::get('jual-beli-lahan', [PublicController::class, 'jualBeliLahan'])->name('jualBeliLahan');
 Route::get('lelang-lahan', [PublicController::class, 'lelangLahan'])->name('lelangLahan');
-Route::get('bid-tanah', [PublicController::class, 'bidLahan'])->name('bidLahan');
+Route::get('bid-lahan', [PublicController::class, 'bidLahan'])->name('bidLahan');
 Route::get('bid-rumah', [PublicController::class, 'bidRumah'])->name('bidRumah');
 Route::get('jasa-appraisal', [PublicController::class, 'jasaAppraisal'])->name('jasaAppraisal');
 Route::get('jasa-tukang-ukur', [PublicController::class, 'jasaTukangUkur'])->name('jasaTukangUkur');
