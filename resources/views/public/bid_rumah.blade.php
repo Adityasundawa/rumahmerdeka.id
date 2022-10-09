@@ -1334,7 +1334,7 @@
                                 </div> --}}
 
                                 <div class="col mb-4">
-                                    <a href="{{url('/')}}/bid-lahan" class="btn btn-outline-light text-dark w-100 rounded-4 shadow" href="https://mitra.atrbpn.go.id">
+                                    <a href="{{url('/')}}/bid-tanah" class="btn btn-outline-light text-dark w-100 rounded-4 shadow" href="https://mitra.atrbpn.go.id">
                                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="85px" x="0" y="0" viewBox="0 0 512.00015 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
                                             <circle r="256.000075" cx="256.000075" cy="256" fill="#ffffff" shape="circle">
                                             </circle>

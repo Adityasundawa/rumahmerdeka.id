@@ -1264,7 +1264,7 @@
                                 </div>
 
                                 <div class="col mb-4">
-                                    <a href="{{url('/')}}/bid-lahan"
+                                    <a href="{{url('/')}}/bid-tanah"
                                         class="btn btn-outline-light text-dark w-100 rounded-4 shadow"
                                         href="https://mitra.atrbpn.go.id">
                                         <svg xmlns="http://www.w3.org/2000/svg" version="1.1"
