@@ -4189,7 +4189,7 @@
         </div>
     </div>
 
-    <div class="card mt-4 border-0 shadow-sm mt-3">
+    <div class="card mt-3 border-0 shadow-sm mt-3">
     
 
         <div class="card-body bg-card-dark-mode">
@@ -6525,7 +6525,7 @@
 
     </div>
 
-    <div class="card mt-4 border-0 shadow-sm mt-3">
+    <div class="card mt-3 border-0 shadow-sm mt-3">
     
 
         <div class="card-body bg-card-dark-mode">
@@ -8881,7 +8881,7 @@
     </div>
 
     <!-- Bidding Rumah -->
-    <div class="card mt-4 border-0 shadow-sm mt-3">
+    <div class="card mt-3 border-0 shadow-sm mt-3">
 
         <div class="card-body bg-card-dark-mode">
 
@@ -11117,7 +11117,7 @@
     </div>
 
     <!-- orang bulet pekur -->
-    <div class="card mb-3 border-0 ">
+    <div class="card mt-3 border-0 ">
         <div class="card-body">
             <div class="mt-2 ">
 
@@ -11212,7 +11212,7 @@
     </div>
 
     <!-- Bidding Rumah -->
-    <div class="card mt-4 border-0 shadow-sm mt-3">
+    <div class="card mt-3 border-0 shadow-sm mt-3">
 
         <div class="card-body bg-card-dark-mode">
 
